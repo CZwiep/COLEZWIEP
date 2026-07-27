@@ -1,0 +1,1 @@
+passwords are not storred as human readable text, insted they are encrypted. the plaintext password is converted to a coded format uning ciphertext. this ensures that even if the passwors is intercepted by a hacker it can not be read without a dycription key. 
