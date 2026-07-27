@@ -1,0 +1,9 @@
+Relevant device configuration information
+
+DHCP is enabled, all devices are given automatic IP addresses
+WPA3 security is enabled on mobile devices (iPhones and iPads)
+Laptop contains one administator account and one user account 
+No VLANS, OSPF, or VPN enabled
+All hostnames are kept as default
+Timezones set to central standard time
+Laptop has 7.7GB of memory, a base speed of 1.3 GHz, 1 socket, and 10 cores
